@@ -1,1 +1,1 @@
-# typescript_assignment_18
+# typescript_assignment_18_seeing_the_world
